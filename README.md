@@ -2,7 +2,7 @@
   <img src='Python Checkers.png' width='500' />
 </p>
 
-<h1 align='center'>Python Checkers</h1>
+<h1 align='center'>Checkers in Python</h1>
 
 A simple yet fully functional implementation of the classic game of Checkers. Built in Python using the Tkinter interface.
 
